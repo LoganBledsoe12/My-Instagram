@@ -1,0 +1,189 @@
+.log-in-header{
+	width:100%;
+	height:132px;
+	background-color: #125168;
+	text-align:right;
+	color:white;
+	padding-top:127px;
+	font-size:35px;
+	padding-right:200px;
+	position:relative;
+	overflow:visible;
+
+ 
+}
+.log-in-btn{
+	margin-left:80px;
+	height:40px;
+	width:90px;
+	border-radius:12%;
+	background-color:white;
+	color:#125168;
+	font-size:14px;
+}
+.iphone-image{
+	background: url("https://instagramstatic-a.akamaihd.net/bluebar/67f7848/images/homepage/home-phones.png") no-repeat 0 80px;
+  	background-size: 440px 550px;
+  	float:left;
+  	height:618px;
+  	width:454px;
+  	position:absolute;
+  	top:0px;
+  	left:0px;
+}
+.log-in-blog{
+	width:400px;
+	height:500px;
+	float:right;
+	margin-top:80px;
+	font-family:Arial;
+	margin-right:50px;
+}
+.gray-text-blog{
+	color:gray;
+}
+.app-store-download{
+	width:150px;
+	height:50px;
+	color:white;
+	background-color:black;
+}
+.google-play-btn{
+	width:150px;
+	height:50px;
+	color:white;
+	background-color:black;
+}
+#user-pass-contain{
+	padding-top:200px;
+	padding-left:35%;
+	padding-left:35%;
+}
+#btn-sign-in{
+	width:185px;
+	height:30px;
+	background-color:green;
+	margin-top:20px;
+}
+#username{
+	width:250px;
+	height:30px;
+	text-align:center;
+}
+#password{
+	width:250px;
+	height:30px;
+	text-align:center;
+}
+
+#text-user-pass{
+	color:#125168;
+	font-size:30px;
+	padding-left:65px;
+	padding-right:65px;
+
+
+}
+#user-contain{
+	text-align:center;
+}
+body{
+	width:100%;
+	height:100%;
+	background-color:rgb(162,162,162);
+}
+#headerboard{
+	height:50px;
+	width:100%;
+	background-color: rgb(67,94,133);
+}
+#btnaddphoto{
+	width:120px;
+	height:35px;
+	margin-top:7px;
+	margin-left:45px;
+	background-color: rgb(12,26,42);
+	color: rgb(67,94,133);
+}
+.picturecaption{
+	background-color:white;
+	height:40px;
+	width:100%;
+	text-align:center;
+	font-family:"Impact";
+	padding-top:10px;
+	margin-top:7px;
+	border:solid 2px black;
+	
+}
+.colum{
+	width:20%;
+	display:inline-block;
+}
+.picture{
+	width:100%;
+}
+.colummiddle{
+	width:60%;
+	display:inline-block;
+}
+#imageurl{
+	width:400px;
+	height:40px;
+	display:block;
+
+}
+#imagecaption{
+	width:400px;
+	height:40px;
+	display:block;
+
+}
+#btncancel{
+	width:100px;
+	height:30px;
+
+}
+#btnaddimage{
+	width:100px;
+	height:30px;
+
+}
+#btnuserpic{
+
+	font-family:Arial;
+	background-color:white;
+	height:40px;
+	width:90px;
+	border-radius:12%;
+	color:#125168;
+	font-size:14px;
+}
+
+#btnsignup{
+	height:30px;
+}
+#divusername{
+	float:right;
+	color:white;
+	font-style:bold;
+	margin-right:150px;
+}
+.numberoflikes{
+	background-color:gray;
+	font-color:black;
+	width:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
